@@ -8,5 +8,9 @@ cmake --build . --config Release  -- /p:WarningLevel=0
 .\\release\\capture_data.exe
 ```
 
+```bash
+conda env list
+conda env remove --name <env_name>
+```
 
 [tools](tools.md)
